@@ -1,5 +1,5 @@
 #Personal details
-print("Name: Balasatha P")
+print("Name: Bala P")
 print("Email: balasastha1002@gmail.com")
 print("Phone no: 9514281390")
 print("Batch: Python")
